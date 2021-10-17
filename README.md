@@ -16,10 +16,10 @@ This is the purpose of the term project of class Computer Vision in Sejong Univ.
   데이터 셋으로는 ActivityNet-v1.3을 사용합니다.   
   ActivityNet-v1.3 데이터 셋은 Google에서 매년 관련 task로 ActivityNet Challenge를 열 때 사용하는 데이터 셋이며, 여러 종류의 action을 포함하고 있습니다.  
   ActivityNet-v1.3 데이터 셋은 train, valid, test 셋으로 구분되어 있으며, 본 챌린지에서는 학습 데이터를 train set, 평가데이터를 valid set으로 선정하였습니다.  
-  또한 개개인마다 리소스가 한정되어 있기에 _**베이스라인 저자가 ActivityNet-v1.3 의 video 별로 feature 추출 및 rescale 하여 제공한 데이터를 본 챌린지의 학습 & 평가 데이터로 제한 합니다. (데이터 셋 링크는 아래 참고)**_  
+  또한 개개인마다 리소스가 한정되어 있기에 **베이스라인 저자가 ActivityNet-v1.3 의 video 별로 feature 추출 및 rescale 하여 제공한 데이터를 본 챌린지의 학습 & 평가 데이터로 제한 합니다. (데이터 셋 링크는 아래 참고)**  
   제한된 데이터 이외에는 사용하실 수 없습니다.  
-  또한 ActivityNet-v1.3은 현재 valid set 에 대해 GT가 공개되어져 있기에, _**valid set GT를 활용한 학습이나 cheating을 금지합니다.**_  
-  이를 판단하기 위해 본 챌린지의 참가자들은 챌린지가 끝난 후, _**코드를 제출해야하며 성능이 원복되어야 순위를 인정받을 수 있습니다.**_  
+  또한 ActivityNet-v1.3은 현재 valid set 에 대해 GT가 공개되어져 있기에, **valid set GT를 활용한 학습이나 cheating을 금지합니다.**  
+  이를 판단하기 위해 본 챌린지의 참가자들은 챌린지가 끝난 후, **코드를 제출해야하며 성능이 원복되어야 순위를 인정받을 수 있습니다.**  
   
 ## Baseline
   베이스라인으로는 BSN(Boundary Sensitive Network)를 사용하였습니다.
