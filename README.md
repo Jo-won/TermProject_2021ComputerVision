@@ -55,3 +55,12 @@ This is the purpose of the term project of class Computer Vision in Sejong Univ.
   - GT가 공개된 데이터 셋인 관계로 Cheating 여부를 판단하기 위해 리더보드 마감 이후, 리더보드의 성능이 원복 가능한 코드를 제출하여야 합니다.
     - 메일 : clockjw@rcv.sejong.ac.kr
   - 베이스라인 코드를 일부 수정하며 따라하시다보면 해당 챌린지의 베이스라인 성능에 도달하실 수 있으니 잘 읽고 따라해보시길 바랍니다.
+
+## Recommendation Paper List
+  아래 논문은 베이스라인이 된 BSN의 후속 논문으로 더 높은 성능을 원하시는 분들은 참고해주시길 바랍니다.
+  -  [BMN](https://arxiv.org/pdf/1907.09702.pdf)
+  -  [BSN++](https://arxiv.org/pdf/2009.07641.pdf)
+
+## Video
+  베이스라인 설명 동영상 입니다.
+  - [Youtube](https://www.youtube.com/watch?v=RCQzncarmRo)
